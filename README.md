@@ -1,0 +1,1 @@
+A simple tutorial for using Cinder++ with OpenCV 3.0 to detect eyes in frames from the computer's camera.
